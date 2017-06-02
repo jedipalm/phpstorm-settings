@@ -11,6 +11,21 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="jquery.scrollTo" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery-scrollTo_2.1.0_jquery.scrollTo.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery-scrollTo_2.1.0_jquery.scrollTo.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="respond" type="javaScript">
       <properties>
         <sourceFilesUrls>
